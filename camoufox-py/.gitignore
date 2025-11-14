@@ -43,11 +43,5 @@ htmlcov/
 # Jupyter Notebook (if applicable)
 .ipynb_checkpoints/
 
-# config files
-config.yaml
-
-# cookies/
-cookies/*.json
-
 # logs
 logs/
